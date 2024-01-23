@@ -8,6 +8,6 @@
 
 •	Can select remote location
 
-•	When one goes into prayer room, mobile will be silent automatically & when he goes outside of the prayer room , mobile will be set to normal mode
+•	When one goes into College Campus, mobile will be silent automatically & when he goes outside of the prayer room , mobile will be set to normal mode
 
 •	Silent rule can be set based on time or location
